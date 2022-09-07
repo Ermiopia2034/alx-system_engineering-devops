@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --reference=0lleh hello
+sudo chmod --reference=0lleh hello
